@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Shukla</h1>
 <h3 align="center">I'm currently pursuing in btech.</h3>
-<img align="right" alt="coding" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcoding-gif&psig=AOvVaw3oPoHf8nltOv8R1OlQRK4M&ust=1737801811915000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiL68OWjosDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="170" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcoding-gif&psig=AOvVaw3oPoHf8nltOv8R1OlQRK4M&ust=1737801811915000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiL68OWjosDFQAAAAAdAAAAABAE">
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **2004naval@gmail.com**
