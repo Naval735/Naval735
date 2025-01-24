@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Shukla</h1>
 <h3 align="center">I'm currently pursuing in btech.</h3>
-<img align="right" width="170" src="">
+<img align="right" width="170" src="https://tenor.com/en-IN/view/coding-gif-18657810">
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **2004naval@gmail.com**
