@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Shukla</h1>
 <h3 align="center">I'm currently pursuing in btech.</h3>
-<img align="right" width="170" src="https://tenor.com/en-IN/view/coding-gif-18657810">
+<img align="right" width="170" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fcomputer-programming-3917226&psig=AOvVaw05IdUg-3treNryz47isXh5&ust=1737802826113000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiPyquajosDFQAAAAAdAAAAABAE ">
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **2004naval@gmail.com**
