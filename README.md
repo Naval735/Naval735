@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Shukla</h1>
 <h3 align="center">I'm currently pursuing in btech.</h3>
-<img align="right" width="170" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fcomputer-programming-3917226&psig=AOvVaw05IdUg-3treNryz47isXh5&ust=1737802826113000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiPyquajosDFQAAAAAdAAAAABAE ">
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **2004naval@gmail.com**
@@ -20,9 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naval735&show_icons=true&locale=en&layout=compact" alt="naval735" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naval735&show_icons=true&locale=en" alt="naval735" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naval735&" alt="naval735" /></p>
-
 <!--
 **Naval735/Naval735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
