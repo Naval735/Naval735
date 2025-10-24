@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js and c#**
 
-- 💬 Ask me about **Web development and Data Analytics**
+- 💬 Ask me about ** .NET core and MERN stack **
 
 - 📫 How to reach me **2004naval@gmail.com**
 
