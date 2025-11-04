@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naval Kishor Shukla</h1>
-<h3 align="center">🚀 B.Tech Final Year Student | MERN Stack & .NET Developer | Data Enthusiast</h3>
+<h3 align="center">🚀 B.Tech Final Year Student | MERN Stack & .NET Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naval735&label=Profile%20views&color=0e75b6&style=flat" alt="naval735" />
