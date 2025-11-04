@@ -17,8 +17,7 @@
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/naval-kishor-shukla-879238227/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.instagram.com/naval.shukla07" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
-<a href="https://leetcode.com/naval07" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" /></a>
+<a href="https://www.instagram.com/naval.shukla45" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
 <a href="https://github.com/Naval735" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>
 </p>
 
