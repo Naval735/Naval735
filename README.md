@@ -25,8 +25,7 @@
 ### 🛠️ Languages & Tools:
 <p align="left">
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,dotnet core,sqlserver,dotnet,bootstrap,git,github,postgresql,sqlite,vscode,visualstudio" />
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,angular,bootstrap,react,dotnet,visualstudio,vscode,git,github,postgresql,sqlite" /></a>
 </p>
 
 ---
