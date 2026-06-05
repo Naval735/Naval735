@@ -25,7 +25,7 @@
 ### 🛠️ Languages & Tools:
 <p align="left">
 <a href="#">
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,angular,bootstrap,react,dotnet,visualstudio,vscode,git,github,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,angular,bootstrap,dotnet,visualstudio,vscode,git,github,postgresql,sqlite" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
 </p>
 
