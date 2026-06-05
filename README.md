@@ -40,7 +40,7 @@
 ---
 
 ### 🚀 About Me:
-I'm a passionate **Full Stack Developer** exploring both **MERN** and **.NET** ecosystems.  
+I'm a passionate **Full Stack Developer** exploring **.NET Core**.  
 I enjoy transforming ideas into real-world projects using **modern web technologies**, focusing on performance, design, and user experience.
 
 ---
